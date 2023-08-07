@@ -1,0 +1,3 @@
+get_data.py is used to generate the working get_data.exe
+get_data1.py can be used from vba using the import method (no xl dependecies)
+get_data1.xw.py can be used from vba using import method (xl depedency)

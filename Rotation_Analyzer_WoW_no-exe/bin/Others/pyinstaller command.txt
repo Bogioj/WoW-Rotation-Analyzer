@@ -1,0 +1,1 @@
+pyinstaller --onefile -w --add-data "C:\Python_Projects\Rotation_Analyzer_WoW\Rotation_Analyzer.xlsm;." get_data.py
